@@ -3,16 +3,17 @@
 ## 🛠️ opdrachten
 
 Tijdens dit labo leer je
- - gebruik maken van een API-sleutel voor toegang.
+
+- gebruik maken van een API-sleutel voor toegang.
 
 ### Postman opstarten
 
- - Start Postman.
+- Start Postman.
 
 ### authentificatie met api key
 
- - [API: News API](https://newsapi.org)
- - endpoint: /top-headlines
+- [API: News API](https://newsapi.org)
+- endpoint: /top-headlines
 
 ---
 
